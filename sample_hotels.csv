@@ -1,4 +1,13 @@
-name,strasse,plz,stadt,status,umsatzpotenzial,abschlusswahrscheinlichkeit,strategische_bedeutung,zeitfenster
-Hotel Alpha,Musterstraße 1,70173,Stuttgart,Lead,18000,0.45,4,10:00-12:00
-Hotel Beta,Hauptstraße 5,80331,München,Bestandskunde,25000,0.65,5,13:00-15:00
-Hotel Gamma,Bahnhofstraße 8,90402,Nürnberg,Key Account,40000,0.75,5,09:00-11:00
+id,name,address,lat,lng,revenue_potential,close_probability,status,strategic_value,window_start,window_end,visit_duration_min,notes
+H001,Hotel am Schlossplatz,Schlossplatz 1 70173 Stuttgart,48.7785,9.1810,75000,0.65,key_account,5,09:00,17:00,60,Bestandskunde Premium
+H002,Parkhotel Waiblingen,Bahnhofstr. 12 71332 Waiblingen,48.8311,9.3168,42000,0.75,active,4,10:00,16:00,45,
+H003,Gasthof Adler,Hauptstr. 5 71404 Korb,48.8421,9.3676,18000,0.40,prospect,2,,,30,Neue Akquise
+H004,Hotel Ludwigsburg Center,Schillerstr. 8 71638 Ludwigsburg,48.8975,9.1916,55000,0.55,prospect,3,09:00,15:00,45,Entscheider erst nach 11h
+H005,Boutique Hotel Esslingen,Marktplatz 3 73728 Esslingen,48.7406,9.3127,32000,0.80,active,4,,,40,
+H006,Hotel Tuebinger Hof,Muehlstr. 22 72074 Tuebingen,48.5216,9.0576,28000,0.30,lead,3,,,30,Erstkontakt offen
+H007,City Hotel Heilbronn,Bahnhofstr. 30 74072 Heilbronn,49.1402,9.2204,48000,0.20,inactive,2,,,30,Letzter Kontakt 2024
+H008,Hotel Karlsruher Hof,Bahnhofplatz 10 76137 Karlsruhe,48.9939,8.4006,62000,0.50,prospect,4,11:00,17:00,60,Grossauftrag moeglich
+H009,Hotel zur Krone,Lange Str. 7 75175 Pforzheim,48.8924,8.6987,22000,0.45,lead,2,,,30,
+H010,Hotel Reutlinger Tor,Listplatz 4 72764 Reutlingen,48.4912,9.2110,38000,0.70,active,3,09:00,18:00,45,
+H011,Gasthaus Sonne,Schmiedgasse 15 71384 Weinstadt,48.8131,9.3725,15000,0.85,prospect,1,,,30,Schneller Abschluss moeglich
+H012,Hotel Solitude,Solitudestr. 200 70499 Stuttgart,48.7855,9.0822,68000,0.35,key_account,5,10:00,14:00,60,Strategisch wichtig
