@@ -1,0 +1,4 @@
+name,strasse,plz,stadt,status,umsatzpotenzial,abschlusswahrscheinlichkeit,strategische_bedeutung,zeitfenster
+Hotel Alpha,Musterstraße 1,70173,Stuttgart,Lead,18000,0.45,4,10:00-12:00
+Hotel Beta,Hauptstraße 5,80331,München,Bestandskunde,25000,0.65,5,13:00-15:00
+Hotel Gamma,Bahnhofstraße 8,90402,Nürnberg,Key Account,40000,0.75,5,09:00-11:00
